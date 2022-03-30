@@ -8,4 +8,4 @@
 | 4 | BOJ | 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | [Solution.cpp](https://github.com/HumanHyeon/Algorithm/blob/master/Baekjoon_15686(%EB%93%9C%EB%9E%98%EA%B3%A4%EC%BB%A4%EB%B8%8C).cpp) |
 | 4 | BOJ | 23288 | [주사위 굴리기2](https://www.acmicpc.net/problem/23288) | [Solution.cpp](https://github.com/HumanHyeon/Algorithm/blob/master/Baekjoon_23288(%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B02).cpp) |
 | 6 | BOJ | 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | [Solution.cpp](https://github.com/HumanHyeon/Algorithm/blob/master/Baekjoon_14501(%ED%87%B4%EC%82%AC).cpp) |
-| 7 | BOJ | 9461 | [파도반수열](https://www.acmicpc.net/problem/9461) | [Solution.cpp](https://github.com/HumanHyeon/Algorithm/blob/master/Backjoon_9461(%ED%8C%8C%EB%8F%84%EB%B0%98%EC%88%98%EC%97%B4).c) |
+| 7 | BOJ | 9461 | [파도반수열](https://www.acmicpc.net/problem/9461) | [Solution.c](https://github.com/HumanHyeon/Algorithm/blob/master/Backjoon_9461(%ED%8C%8C%EB%8F%84%EB%B0%98%EC%88%98%EC%97%B4).c) |
